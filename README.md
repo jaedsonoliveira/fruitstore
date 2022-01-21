@@ -1,3 +1,8 @@
+<h1>Projeto FruitStore</h1>
+
+<img src="public/1.png"/><br><br><br>
+<img src="public/2.png"/>
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
